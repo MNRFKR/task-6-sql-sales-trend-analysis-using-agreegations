@@ -1,0 +1,1 @@
+# task-6-sql-sales-trend-analysis-using-agreegations
